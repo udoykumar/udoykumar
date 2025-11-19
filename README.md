@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=58A6FF&center=true&width=700&lines=Frontend+Web+Developer;React+Developer;MERN+Stack+Learner;Passionate+about+Building+Web+Experiences)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=58A6FF&center=true&width=700&lines=UDOY+KUMAR+PAL;Frontend+Web+Developer;React+Developer+MERN+Stack;Passionate+about+Building+Web+Experiences)
 
 ---
 
@@ -67,7 +67,7 @@ Currently, I’m focused on expanding my knowledge into the **MERN Stack** to gr
 
 ## 📫 Connect With Me
 - **Email:** dev.webbyudoy@gmail.com  
-- **Portfolio:** *(Add your portfolio link here)*  
-- **LinkedIn:** *(Add your LinkedIn profile link here)*  
+- **Portfolio:** *add link*  
+- **LinkedIn:** *(https://www.linkedin.com/in/udoy-kumar-pal-16a366289/)*  
 
 ---
