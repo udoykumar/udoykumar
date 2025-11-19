@@ -1,9 +1,14 @@
 # Hi there 👋
 
-![Banner](https://i.ibb.co.com/m5Wt97zS/Screenshot-12.png)
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co.com/m5Wt97zS/Screenshot-12.png" alt="Banner" style="max-width:100%; border-radius:20px;" />
+</p>
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=58A6FF&center=true&width=700&lines=UDOY+KUMAR+PAL;Frontend+Web+Developer;React+Developer+MERN+Stack;Passionate+about+Building+Web+Experiences)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=58A6FF&center=true&width=700&lines=UDOY+KUMAR+PAL;Frontend+Web+Developer;React+Developer+MERN+Stack;Passionate+about+Building+Web+Experiences" alt="Typing SVG">
+</p>
 
 ---
 
@@ -54,11 +59,20 @@ Currently, I’m focused on expanding my knowledge into the **MERN Stack** to gr
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Contributions
 
-![](https://github-readme-stats.vercel.app/api?username=udoykumar&theme=neon&hide_border=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=udoykumar&theme=neon&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udoykumar&theme=neon&hide_border=true&layout=compact)
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udoykumar&theme=react-dark&radius=12" alt="Contribution Graph" />
+
+  <!-- GitHub Stats -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=udoykumar&theme=react-dark&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://nirzak-streak-stats.demolab.app/?user=udoykumar&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udoykumar&theme=react-dark&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
@@ -70,6 +84,4 @@ Currently, I’m focused on expanding my knowledge into the **MERN Stack** to gr
 ## 📫 Connect With Me
 - **Email:** dev.webbyudoy@gmail.com  
 - **Portfolio:** *add link*  
-- **LinkedIn:** *(https://www.linkedin.com/in/udoy-kumar-pal-16a366289/)*  
-
----
+- **LinkedIn:** [Udoy Kumar Pal](https://www.linkedin.com/in/udoy-kumar-pal-16a366289/)
