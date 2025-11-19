@@ -1,8 +1,6 @@
 # Hi there 👋
 
-<p align="center">
-  <img src="https://i.ibb.co.com/m5Wt97zS/Screenshot-12.png" alt="Banner" />
-</p>
+![Banner](https://i.ibb.co.com/m5Wt97zS/Screenshot-12.png)
 
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=58A6FF&center=true&width=700&lines=UDOY+KUMAR+PAL;Frontend+Web+Developer;React+Developer+MERN+Stack;Passionate+about+Building+Web+Experiences)
