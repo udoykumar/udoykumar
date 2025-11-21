@@ -3,7 +3,7 @@
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=56B6E3&center=true&width=700&lines=UDOY+KUMAR+PAL;Frontend+Web+Developer;React+Developer+MERN+Stack;Passionate+about+Building+Web+Experiences)
 
-![Banner](/Screenshot_13.png)
+![Banner](/banner.png)
 
 
 ---
