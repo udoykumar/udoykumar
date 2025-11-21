@@ -16,10 +16,8 @@ I specialize in **HTML, CSS, Tailwind CSS, JavaScript, and React**, and I love t
 I care about writing **clean code**, maintaining **performance**, and ensuring **great UX/UI**.  
 Currently, I’m focused on expanding my knowledge into the **MERN Stack** to grow as a full-stack developer.
 
-- 🔭 Working on: **Web Development Projects**  
-- 🌱 Learning: **Node.js, Express, MongoDB**  
-- 👯 Open to collaborate on: **Frontend projects, React apps, UI/UX based websites**  
-- 🤔 Seeking help with: **Backend & API integration**  
+- 🔭 Working on: **Web Development**  
+- 🌱 Learning: **Node.js, Express, MongoDB** 
 - 💬 Ask me about: **JavaScript, React, Tailwind, UI/UX**  
 - 📫 Contact me: **dev.webbyudoy@gmail.com**  
 - 😄 Pronouns: **He/Him**  
