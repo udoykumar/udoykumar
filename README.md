@@ -62,15 +62,19 @@ Currently, I’m focused on expanding my knowledge into the **MERN Stack** to gr
 ---
 
 
-## 📫 Connect With Me
+
 ## 📬 Contact Me
 
-- 📧 **Email:** [dev.webbyudoy@gmail.com](mailto:dev.webbyudoy@gmail.com)
 
-- 🌐 **Portfolio:**  
-  [![Visit My Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://udoykumar-personal-portfolio.vercel.app/)
+  <a href="mailto:dev.webbyudoy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-- 💼 **LinkedIn:**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Udoy_Kumar_Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udoy-kumar-pal-16a366289/)
+  <a href="https://udoykumar-personal-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/udoy-kumar-pal-16a366289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-14B8A6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
