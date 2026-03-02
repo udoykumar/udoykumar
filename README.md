@@ -17,7 +17,7 @@ I care about writing **clean code**, maintaining **performance**, and ensuring *
 Currently, I’m focused on expanding my knowledge into the **MERN Stack** to grow as a full-stack developer.
 
 - 🔭 Working on: **Web Development**  
-- 🌱 Learning: **Node.js, Express, MongoDB Nextjs** 
+- 🌱 Learning: **Node.js, Express, MongoDB, Nextjs** 
 - 💬 Ask me about: **JavaScript, React, Tailwind, UI/UX**  
 - 📫 Contact me: **dev.webbyudoy@gmail.com**  
 - 😄 Pronouns: **He/Him**  
