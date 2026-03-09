@@ -1,7 +1,12 @@
-# Hi there 👋
+
+
+<!-- Animated Wave Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F828C,100:065084&text=UDOY+KUMAR&fontColor=ffffff&fontSize=30&fontAlignY=35&animation=twinkling"/>
+</p>
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=900&color=56B6E3&center=true&width=700&lines=UDOY+KUMAR+PAL;Frontend+Web+Developer;React+Developer+MERN+Stack;Passionate+about+Building+Web+Experiences)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=900&color=56B6E3&center=true&width=700&lines=UDOY+KUMAR+PAL;Frontend+Web+Developer;MERN+Stack)
 
 
 
