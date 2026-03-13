@@ -14,6 +14,8 @@
 
 ## 🚀 About Me
 
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 I'm a passionate **Frontend Web Developer** dedicated to building clean, modern, and responsive web interfaces.  
 I specialize in **HTML, CSS, Tailwind CSS, JavaScript, and React**, and I love turning ideas into smooth, interactive digital experiences.
 
